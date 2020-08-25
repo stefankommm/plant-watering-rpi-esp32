@@ -27,8 +27,8 @@
 //const char* ssid = "Sokrates";
 //const char* password = "suav3m3nt3b3sam3";
 
-const char* ssid = "Aristoteles";
-const char* password = "4quaDulc34quaSala";
+const char* ssid = "ssid";
+const char* password = "password";
 
 unsigned long TimeSinceBoot;
 unsigned long TimeToStop = 0;
